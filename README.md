@@ -62,7 +62,7 @@ This demonstrates practical applications of:
 
 3. **Run the game**
    ```bash
-   python hand_distance_game.py
+   python main.py
    ```
 
 ## How to Play
